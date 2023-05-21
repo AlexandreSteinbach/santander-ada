@@ -11,6 +11,13 @@
 * comando git commit -m "mensagem"
 * comando git push
 
+## Puxar informações do repositório remoto
+* comando git pull
+
+## Para fazer pull com cuidado, fazer antes:
+*git fetch
+*git diff
+
 ## Outros comandos
 *git remote
 *git diff
