@@ -18,6 +18,11 @@
 *git fetch
 *git diff
 
+# Branches
+* comando git branch
+*git log --oneline --decorate //verificar onde está localizado
+*git checkout (nome da branch) // para ir até a branch
+
 ## Outros comandos
 *git remote
 *git diff
